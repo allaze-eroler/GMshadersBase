@@ -1,4 +1,4 @@
-///description Display shaders
+///@description Display shaders
 
 if !surface_exists(surf) surf = surface_create(w, h);
 
